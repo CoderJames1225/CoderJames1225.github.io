@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.4f7b9c4e.chunk.css",
-    "main.js": "/static/js/main.e53e39e0.chunk.js",
-    "main.js.map": "/static/js/main.e53e39e0.chunk.js.map",
+    "main.js": "/static/js/main.38935694.chunk.js",
+    "main.js.map": "/static/js/main.38935694.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.db5a9e4b.js",
     "runtime-main.js.map": "/static/js/runtime-main.db5a9e4b.js.map",
     "static/js/2.094f7f74.chunk.js": "/static/js/2.094f7f74.chunk.js",
@@ -10,6 +10,7 @@
     "index.html": "/index.html",
     "static/css/main.4f7b9c4e.chunk.css.map": "/static/css/main.4f7b9c4e.chunk.css.map",
     "static/js/2.094f7f74.chunk.js.LICENSE.txt": "/static/js/2.094f7f74.chunk.js.LICENSE.txt",
+    "static/media/041agency.bddbf996.png": "/static/media/041agency.bddbf996.png",
     "static/media/Navigation.css": "/static/media/Agustina.320d237b.otf",
     "static/media/airbnbLogo.e8497507.png": "/static/media/airbnbLogo.e8497507.png",
     "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.f691f37e.woff",
@@ -21,6 +22,6 @@
     "static/js/runtime-main.db5a9e4b.js",
     "static/js/2.094f7f74.chunk.js",
     "static/css/main.4f7b9c4e.chunk.css",
-    "static/js/main.e53e39e0.chunk.js"
+    "static/js/main.38935694.chunk.js"
   ]
 }
